@@ -2,9 +2,7 @@
 
 > A demonstrable PM artifact by **Pranit Patil**. I did a product teardown of [HeyMarvin](https://heymarvin.com), found that **speaker/quote misattribution** is the biggest threat to its core "trust" promise, and built a working prototype of how I'd fix it in a first sprint.
 
-**▶️ Live demo:** _add your deployed link here (GitHub Pages / Vercel / Netlify)_
-**🎥 Loom walkthrough:** _add your 60-sec video link here_
-
+**▶️ Live demo:** _https://vitejsvitenptm1zxw-za4v--5173--87cf54cd.local-credentialless.webcontainer.io/
 ---
 
 ## The problem (in one line)
@@ -40,33 +38,6 @@ Watch all three KPI cards turn green. 🎉
 
 ---
 
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the printed `localhost` URL.
-
-To build for production:
-
-```bash
-npm run build
-npm run preview
-```
-
-## Deploy to GitHub Pages
-
-1. Push this repo to GitHub with the default branch named `main`.
-2. In **vite.config.js**, set `base: "/<your-repo-name>/"` (uncomment the line).
-3. In your repo **Settings → Pages**, set **Source: GitHub Actions**.
-4. The included workflow (`.github/workflows/deploy.yml`) builds and deploys on every push to `main`.
-
-> Prefer one click? Import the repo into **Vercel** or **Netlify** — no config needed, no `base` change required.
-
----
-
 ## Tech stack
 
 - **React 18** + **Vite** — fast, modern SPA tooling
@@ -90,7 +61,3 @@ This prototype demonstrates the full PM loop in one artifact:
 - **Measurement** → success metrics instrumented directly into the UI.
 - **Building** → shipped a working, interactive prototype, not just a slide.
 
----
-
-_Built by **Pranit Patil** — business consultant transitioning to AI Product Management._
-_Product teardown available on request._

@@ -51,13 +51,5 @@ The detection is **rule-based here to illustrate the UX**. In production, this l
 
 ---
 
-## How this maps to the role
 
-This prototype demonstrates the full PM loop in one artifact:
-
-- **Discovery** → teardown surfaced the real, documented weakness.
-- **Prioritization** → chose the fix that attacks the biggest risk *and* reinforces the core differentiator (high value, low/medium effort).
-- **Definition** → shippable feature with clear user stories and out-of-scope.
-- **Measurement** → success metrics instrumented directly into the UI.
-- **Building** → shipped a working, interactive prototype, not just a slide.
 

@@ -1,4 +1,4 @@
-# HeyMarvin · Trust Layer — Interactive Prototype
+# HeyMarvin · Trust Layer - Interactive Prototype
 
 > A demonstrable PM artifact by **Pranit Patil**. I did a product teardown of [HeyMarvin](https://heymarvin.com), found that **speaker/quote misattribution** is the biggest threat to its core "trust" promise, and built a working prototype of how I'd fix it in a first sprint.
 
@@ -9,7 +9,7 @@
 
 HeyMarvin's superpower is trust — every insight cites its source. But its most-documented weakness is **speaker misattribution**: moderator prompts get surfaced as if the *customer* said them. One bad quote can invalidate an entire stakeholder deck.
 
-## The fix — a "Trust Layer"
+## The fix - a "Trust Layer"
 
 | Capability | What it does |
 |---|---|

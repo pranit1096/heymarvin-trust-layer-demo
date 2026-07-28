@@ -2,7 +2,7 @@
 
 > A demonstrable PM artifact by **Pranit Patil**. I did a product teardown of [HeyMarvin](https://heymarvin.com), found that **speaker/quote misattribution** is the biggest threat to its core "trust" promise, and built a working prototype of how I'd fix it in a first sprint.
 
-**▶️ Live demo:** _https://vitejsvitenptm1zxw-za4v--5173--87cf54cd.local-credentialless.webcontainer.io/
+**▶️ Live demo:** _https://heymarvindemo.netlify.app/
 ---
 
 ## The problem (in one line)
